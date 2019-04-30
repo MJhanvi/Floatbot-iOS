@@ -81,7 +81,7 @@ Pod::Spec.new do |s|
   #
 
 
-  s.source            = { :http => 'https://github.com/MJhanvi/Floatbot-iOS' }
+  s.source            = { :http => 'https://codeload.github.com/MJhanvi/Floatbot-iOS/zip/master' }
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
   #
